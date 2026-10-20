@@ -1,13 +1,13 @@
 .tarjeta {
-  border: 1px solid #09c07a;
+  border: 5px solid #ffc629;
   padding: 1rem;
 }
 
 body {
     font-family: Arial, sans-serif;
-    color: #172033;
+    color: #00662a;
   }
   
   h1 {
-    background-color: #155e75;
+    background-color: #aee6bc;
   }
